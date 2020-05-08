@@ -1,0 +1,59 @@
+* {
+  max-width: 960px;
+}
+
+p {
+}
+
+h1 {
+  font-size: 300%;
+}
+
+#social {
+  float: right;
+  margin-left: 10px;
+}
+
+#print1 {
+  float: right;
+}
+
+nav {
+  margin-top: 30px;
+}
+
+body {
+  margin-left: 50px;
+}
+
+#delicious {
+  margin-left: 10px;
+  display: inline-block;
+  margin-top: 0px;
+}
+
+#logo {
+  float: left;
+  display: inline-block;
+}
+
+#logo-delicious {
+  font-family: 'Caveat', cursive;
+}
+
+footer {
+  margin-top: 15px;
+}
+
+#stripe {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#vanessapic {
+  float: left;
+}
+
+h3 {
+  font-size: 120%;
+}
