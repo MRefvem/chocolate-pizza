@@ -62,9 +62,57 @@ h3 {
 
 #print {
   float: right;
-  display: inline-block;
+  /* display: inline-block; */
 }
 
 h5 {
   max-width: 50%;
+}
+
+#setwidth {
+  max-width: 500px;
+}
+
+#form, #form2{
+  background-color:transparent;
+  border: none;
+}
+
+fieldset {
+  border: none;
+  font-family: 'Patrick Hand', cursive;
+  width: 200px;
+  height:250px;
+  position: fixed;
+  background-color:transparent;
+  }
+
+#notepad{
+  height: 250px;
+}
+
+#overlay1{
+  color: #706856;
+  float:left;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 20px;
+  position: fixed;
+  background-color: transparent;
+  line-height:26px;
+}
+
+#overlay2{
+  color: #706856;
+  float:left;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 20px;
+  /* position: fixed; */
+  background-color: transparent;
+  padding-left:300px;
+  padding-top:5px;
+  line-height:26px;
+}
+
+#blocknotepad{
+  height:30px;
 }
