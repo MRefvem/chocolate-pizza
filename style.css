@@ -1,0 +1,118 @@
+* {
+  max-width: 960px;
+}
+
+p {
+  font-family: 'Lora', serif;
+}
+
+h1 {
+  font-size: 300%;
+}
+
+#social {
+  float: right;
+  margin-left: 10px;
+}
+
+#imgmargin {
+  margin-left: 8px;
+}
+
+nav {
+  margin-top: 30px;
+}
+
+body {
+  margin-left: 50px;
+}
+
+#delicious {
+  margin-left: 10px;
+  display: inline-block;
+  margin-top: 0px;
+}
+
+#logo {
+  float: left;
+  /* display: inline-block; */
+}
+
+h2 {
+  font-family: 'Caveat', cursive;
+  font-size: 150%;
+}
+
+footer {
+  margin-top: 15px;
+}
+
+#stripe {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#vanessapic {
+  float: left;
+}
+
+h3 {
+  font-size: 120%;
+}
+
+#print {
+  float: right;
+  /* display: inline-block; */
+}
+
+h5 {
+  max-width: 50%;
+}
+
+#setwidth {
+  max-width: 500px;
+}
+
+#form, #form2{
+  background-color:transparent;
+  border: none;
+}
+
+fieldset {
+  border: none;
+  font-family: 'Patrick Hand', cursive;
+  width: 200px;
+  height:250px;
+  position: fixed;
+  background-color:transparent;
+  }
+
+#notepad{
+  height: 250px;
+}
+
+#overlay1{
+  color: #706856;
+  float:left;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 20px;
+  position: fixed;
+  background-color: transparent;
+  line-height:26px;
+}
+
+#overlay2{
+  color: #706856;
+  float:left;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 20px;
+  /* position: fixed; */
+  background-color: transparent;
+  padding-left:300px;
+  padding-top:5px;
+  line-height:26px;
+}
+
+#blocknotepad{
+  height:30px;
+}
