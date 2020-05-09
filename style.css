@@ -1,5 +1,6 @@
 * {
   max-width: 960px;
+  margin:auto;
 }
 
 p {
@@ -69,7 +70,21 @@ h5 {
   max-width: 50%;
 }
 
-#setwidth {
+button{
+  /* position:absolute; */
+  float:right;
+}
+
+#linediv1{
+  max-width: 400px;
+  margin:10px;
+}
+
+smallerlogo{
+/* float:right; */
+}
+
+#setwidth, h3 {
   max-width: 500px;
 }
 
@@ -89,6 +104,7 @@ fieldset {
 
 #notepad{
   height: 250px;
+  /* position: absolute; */
 }
 
 #overlay1{
@@ -96,10 +112,10 @@ fieldset {
   float:left;
   font-family: 'Patrick Hand', cursive;
   font-size: 20px;
-  position: absolute;
-  top: 10px;
   background-color: transparent;
   line-height:26px;
+  position: absolute;
+  padding: 20px;
 }
 
 #overlay2{
@@ -109,10 +125,10 @@ fieldset {
   font-size: 20px;
 
   background-color: transparent;
-  padding-left:300px;
-  padding-top:5px;
+  padding-left:320px;
+  padding-top: 30px;
   line-height:26px;
-  position: absolute;
+  position:absolute;
 }
 
 #blocknotepad{
